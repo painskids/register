@@ -1,0 +1,11 @@
+{
+    "description": "Pain's Website",
+    "repo": "https://github.com/painskids",
+    "owner": {
+      "username": "pain",
+      "email": "painwastooshort@gmail.com"
+    },
+    "record": {
+      "CNAME": "painskids.github.io"
+    }
+  }
